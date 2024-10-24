@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://bofefoyo.github.io/sitemap/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/Vca/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/lXW/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/lFh/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/daW/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/Mow/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/KjG/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/hRF/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/DyF/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/RTn/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/BIV/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/AaL/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/jgy/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/yvR/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/hfd/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/xVG/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/YZb/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/Fkv/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/KTW/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/NCV/sitemap_index.bofefoyo
+Sitemap: https://bofefoyo.github.io/xEy/sitemap_index.bofefoyo
